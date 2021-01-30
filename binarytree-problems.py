@@ -5,7 +5,6 @@
 # plt.plot(x, np.sin(x))       # Plot the sine of each x point
 # plt.show()                   # Display the plot
 
-
 # import re
 # texts = 'https://www.geeksforgeeks.org/'
 # patterns = '(\w+)://'
