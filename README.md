@@ -11,5 +11,5 @@ Contains a demo binary tree class, with the following recursive methods:
   7. Find maximal depth (top-down).
   8. Find the tree size.
   9. Mirror the tree.
-  10. Get all leafs.
+  10. Get all leaves.
   11. Get all root to leaf paths.
